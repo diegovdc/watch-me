@@ -1,4 +1,4 @@
-# Cómo Watchear
+# ¿Cómo watchear un archivo?
 
 Correr con `npm run monitor how-to.js`
 
