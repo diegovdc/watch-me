@@ -1,8 +1,11 @@
 # Cómo Watchear
 
-correr con npm run watcher how-to.js
+Correr con `npm run monitor how-to.js`
 
-## Se trata del script
+## Dependencias
+`npm i nodemon -D`
+
+## Agregar al package.json
 ```  
 "scripts": {
   "monitor": "nodemon"
